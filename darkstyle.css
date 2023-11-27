@@ -1,0 +1,41 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+  }
+  
+  h1  {
+    text-align: center;
+    color: white;
+    font-family: 'YouTube Sans', sans-serif; 
+  }
+
+  h2 {
+    text-align: center;
+    color: white;
+    font-family: 'YouTube Sans', sans-serif; 
+  }
+
+  button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-button {
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .custom-button:hover {
+    background-color: #990000;
+  }
+
+  body{
+    background-color: black;
+  }
